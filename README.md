@@ -18,7 +18,7 @@ This experiments mainly contains 3 parts:
 
 And report for the review is shown in
 
-[*Stochastic optimization I: from Monte-Carlo methods to Gibbs sampling*](https://cainmagi.github.io/notes/note20181129special/)
+[*Stochastic optimization I: from Monte-Carlo methods to Gibbs sampling*](https://cainmagi.github.io/notes/note20190215special/)
 
 Please check this page for more details.
 
