@@ -2,19 +2,33 @@
 
 This project is a collection of the literature reviews for read papers. I would post the reproductions and codes to this project if I learn a new paper.
 
-## Lovasz extension research on 01/28/19
+## Monte-Carlo research on 02/15/19
 
-This branch contains the source codes for the research on Lovasz extension. The original paper is
+This branch contains the source codes for the research on Monte-Carlo method, the original lecture notes could be found here:
 
-[*The Lovász-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks*](https://arxiv.org/abs/1705.08790)
+[*Markov Chain Monte Carlo and Gibbs Sampling*](http://nitro.biosci.arizona.edu/courses/EEB596/handouts/Gibbs.pdf)
+
+This experiments mainly contains 3 parts:
+
+* `python imp-samp.py`: Error analysis on importance sampling.
+
+* `python metropolis.py`: 2D Simulation for Metropolis-Hastings algorithm and error analysis.
+
+* `python gibbs.py`: 2D Simulation for Gibbs sampling and error analysis.
 
 And report for the review is shown in
 
-[*Special Notes on Nov. 19, 2018*](https://cainmagi.github.io/notes/note20181129special/)
+[*Stochastic optimization I: from Monte-Carlo methods to Gibbs sampling*](https://cainmagi.github.io/notes/note20181129special/)
 
 Please check this page for more details.
 
 ## Update Report
+
+## @ 02/20/2019
+
+1. Upload the inspection on Metropolis-Hastings algorithm.
+
+2. Upload the inspection on Gibbs sampling.
 
 ## @ 02/18/2019
 
